@@ -1,16 +1,15 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dHkzR0m.png" alt="Kadilana - AI Engineer | Innovator | Tech Visionary" width="100%">
+  <img src="https://imagine-public.x.ai/imagine-public/images/5e5d040e-3fab-4962-ae9f-401ae1f98410.png" alt="Kadilana - AI Engineer | Innovator | Tech Visionary" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <b>Kadilana</b></h1>
-<h3 align="center">AI Engineer | Innovator | Visionary | 🇹🇿 Building Africa’s AI Future</h3>
+<h3 align="center">AI Engineer | Developer | Innovator | Visionary | 🇹🇿 Building Africa’s AI Future</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kadilana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/kadilana_ai"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-  <a href="https://github.com/kadilana"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-  <a href="https://youtube.com/@kadilana-ai"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kadilana-mbogo-a09907335"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/kadilana1"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+  <a href="https://github.com/KCMbogo"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -41,7 +40,7 @@ I explore how **AI can transform industries**, empower communities, and drive Ta
 ---
 
 ### 🧠 Technologies I Use
-`Python` · `PyTorch` · `TensorFlow` · `FastAPI` · `Django` · `Flutter` · `OpenCV` · `MediaPipe` · `NumPy` · `Pandas` · `Matplotlib` · `Docker` · `Nginx` · `PostgreSQL` · `TFLite` · `ONNX` · `Git` · `Linux (Ubuntu)`
+`Python` · `PyTorch` · `FastAPI` · `Django` · `Flutter` · `Laravel` . `OpenCV` · `MediaPipe` · `NumPy` · `Pandas` · `Matplotlib` · `Docker` · `Nginx` · `PostgreSQL` · `ONNX` · `Git` · `Linux (Fedora)`
 
 ---
 
@@ -68,14 +67,12 @@ To lead the creation of **Africa’s next generation of AI-driven systems** — 
 ### 🧩 Core Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 📱 App Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### ⚙️ Tools & Infra
@@ -88,19 +85,25 @@ To lead the creation of **Africa’s next generation of AI-driven systems** — 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kadilana&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kadilana&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadilana&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KCMbogo&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KCMbogo&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KCMbogo&theme=radical&hide_border=true&layout=compact)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kadilana&label=Profile%20Views&color=0&icon=5&pretty=true" alt="visit count">
+  <img src="https://visitcount.itsvg.in/api?id=KCMbogo&label=Profile%20Views&color=0&icon=5&pretty=true" alt="visit count">
 </p>
 
 ---
 
 ## 💰 Support My Mission
 If you believe in **AI for Africa**, you can support my journey, contact me:  
-[![](kadilanambogo@gmail.com)
+[Kadilana Mbogo](mailto: kadilanambogo@gmail.com)
+
+---
+
+---
+
+**"Fun Fact: Am Gen Z 🌍✨."**
 
 ---
 
