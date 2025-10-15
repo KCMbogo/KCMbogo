@@ -1,25 +1,108 @@
-- 👋 Hi, I’m Kadilana Mbogo
-  
-- 👀 I’m a self motivated backend developer using django and php(laravel),
-     Also,
-     A deep learning self taught engineer using pytorch,
-     A pygame developer and a self taught mobile application developer using Flutter.
-  
-- 🌱 I’m currently learning Deep Learning using PyTorch and Mobile development using Flutter
-  
-- 💞️ I’m looking to collaborate on Deep Learning project and Mobile development projects
-  
-- 📫 How to reach me, well through my email of course, kadilanambogo@gmail.com or kadilana04@gmail.com
-  
-- 😄 Pronouns: He/Him/His
-  
-- ⚡ Fun fact: As AI advances, web development prances!
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dHkzR0m.png" alt="Kadilana - AI Engineer | Innovator | Tech Visionary" width="100%">
+</p>
 
-- ⚠️ While traditional coding skills remain important,
-     understanding how to leverage AI and deep learning tools effectively
-     can become a game-changer in the web development landscape.
+<h1 align="center">👋 Hi, I'm <b>Kadilana</b></h1>
+<h3 align="center">AI Engineer | Innovator | Visionary | 🇹🇿 Building Africa’s AI Future</h3>
 
-<!---
-KCMbogo/KCMbogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://linkedin.com/in/kadilana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/kadilana_ai"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+  <a href="https://github.com/kadilana"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+  <a href="https://youtube.com/@kadilana-ai"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white"></a>
+</p>
+
+---
+
+## 💫 About Me
+
+I’m a self-taught **Machine Learning & Deep Learning Engineer** passionate about building intelligent systems that solve real African challenges — from computer vision and natural language to automation and smart infrastructure.  
+
+I explore how **AI can transform industries**, empower communities, and drive Tanzania’s technological independence. Through my journey, I’m building prototypes, platforms, and AI products that merge **vision, data, and code** — and I aim to shape Africa’s future through artificial intelligence.
+
+---
+
+### ⚙️ What I Do
+- **Machine Learning & Deep Learning:** PyTorch, TensorFlow, scikit-learn  
+- **Computer Vision:** Object detection, tracking, pose & face recognition, YOLO, MediaPipe  
+- **Model Deployment:** FastAPI, Flask, TFLite (for mobile), ONNX, Docker  
+- **Backend Systems:** Django REST Framework, FastAPI, clean architecture  
+- **App Development:** Flutter (integrated AI apps & on-device inference)  
+- **Research & Experimentation:** Custom dataset creation, model fine-tuning, transfer learning  
+
+---
+
+### 🚀 Current Focus (2025)
+- **SAFARI AI** – intelligent wildlife information & detection for conservation  
+- **Dealer AI** – an AI-powered product discovery chatbot for Tanzanian vendors  
+- **FC App** – a football social media platform with AI-driven recommendations  
+
+---
+
+### 🧠 Technologies I Use
+`Python` · `PyTorch` · `TensorFlow` · `FastAPI` · `Django` · `Flutter` · `OpenCV` · `MediaPipe` · `NumPy` · `Pandas` · `Matplotlib` · `Docker` · `Nginx` · `PostgreSQL` · `TFLite` · `ONNX` · `Git` · `Linux (Ubuntu)`
+
+---
+
+### 💡 Principles I Live By
+- **Build real-world impact first — not hype.**  
+- **AI for local problems, global standards.**  
+- **Clean, modular code over complexity.**  
+- **Security, scalability, and accessibility for all.**
+
+---
+
+### 💬 Ask Me About
+AI systems design · PyTorch fundamentals · Model deployment · Flutter + AI integration · API engineering · Dataset building · Computer vision project planning · MLOps basics  
+
+---
+
+### 🌍 Vision
+To lead the creation of **Africa’s next generation of AI-driven systems** — made by Africans, for Africa, and for the world.
+
+---
+
+# 💻 Tech Stack
+
+### 🧩 Core Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 📱 App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚙️ Tools & Infra
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kadilana&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kadilana&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadilana&theme=radical&hide_border=true&layout=compact)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kadilana&label=Profile%20Views&color=0&icon=5&pretty=true" alt="visit count">
+</p>
+
+---
+
+## 💰 Support My Mission
+If you believe in **AI for Africa**, you can support my journey, contact me:  
+[![](kadilanambogo@gmail.com)
+
+---
+
+**"Africa’s AI future will be built by those who dare to start now."** 🌍✨  
+— *Kadilana Mbogo*
