@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://imagine-public.x.ai/imagine-public/images/5e5d040e-3fab-4962-ae9f-401ae1f98410.png" alt="Kadilana - AI Engineer | Innovator | Tech Visionary" width="100%">
+  <img src="istockphoto-1452604857-1024x1024.jpg" alt="Kadilana - AI Engineer | Innovator | Tech Visionary" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Kadilana</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Kadilana Mbogo</b></h1>
 <h3 align="center">AI Engineer | Developer | Innovator | Visionary | 🇹🇿 Building Africa’s AI Future</h3>
 
 <p align="center">
@@ -90,7 +90,7 @@ To lead the creation of **Africa’s next generation of AI-driven systems** — 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KCMbogo&theme=radical&hide_border=true&layout=compact)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KCMbogo&label=Profile%20Views&color=0&icon=5&pretty=true" alt="visit count">
+  <img src="https://komarev.com/ghpvc/?username=KCMbogo&label=Profile+Views&color=blue&style=flat" alt="visit count">
 </p>
 
 ---
