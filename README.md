@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="istockphoto-1452604857-1024x1024.jpg" alt="Kadilana - AI Engineer | Innovator | Tech Visionary" width="100%">
+  <!-- <img src="istockphoto-1452604857-1024x1024.jpg" alt="Kadilana - AI Engineer | Innovator | Tech Visionary" width="100%"> -->
+  <video controls>
+    <source src="ai.mp4" type="video/mp4">
+    Video format not supported
+  </video>
 </p>
 
 <h1 align="center">👋 Hi, I'm <b>Kadilana Mbogo</b></h1>
